@@ -1,5 +1,6 @@
-package DAO;
+package dao;
 
+import configuration.HibernateUtil;
 import model.MyBook;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
